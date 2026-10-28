@@ -1,0 +1,9 @@
+{
+  "name": "StaffSync - Modern Human Resource Management Solution",
+  "description": "Role-based HRMS starter project with employee directory, leave management, attendance tracking, announcements, and training programs.",
+  "prompt": "StaffSync MERN Human Resource Management Solution",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
